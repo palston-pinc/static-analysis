@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "AnyThreats"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Patrick Alston"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "MyApp",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
